@@ -1,0 +1,15 @@
+*
+!*/
+!*.*
+*.exe
+!LICENSE
+!NOTICE
+
+*/.metadata/
+.metadata/
+*/.pio/
+.pio/
+*/.cache/
+.cache/
+*/.vscode/
+.vscode/
